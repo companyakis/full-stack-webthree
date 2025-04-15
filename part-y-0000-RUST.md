@@ -1,1 +1,1 @@
-
+"Tour of Rust".clone();
